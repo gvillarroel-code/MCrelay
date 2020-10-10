@@ -2,6 +2,12 @@
 // V1.stable
 //
 //********************************************
+// 09/10/20
+//
+// MODIFICACION PARA BAJAR CONEXIONES DE CLIENTES QUE ESTEN INACTIVA POR UN TIEMPO
+// CONFIGURABLE VIA INIT
+// *******************************************
+// ESSAYE 1
 
 import java.net.*;  
 import java.util.*;

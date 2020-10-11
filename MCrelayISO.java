@@ -15,7 +15,7 @@ class MCrelayISO {
 	public static BufferedInputStream SLBISpool [] = new BufferedInputStream [MaxConnections];
 	public static BufferedOutputStream SLBOSpool [] = new BufferedOutputStream [MaxConnections];
 	public static int ConnPool [] = new int [MaxConnections];
-        public static String ConnIpPool [] = new String [MaxConnections];
+	public static String ConnIpPool [] = new String [MaxConnections];
 	public static int SLFreePool [] = new int [9];
 	public static int ClienteID;
 	public static int SLconnID;
